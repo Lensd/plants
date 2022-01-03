@@ -1,0 +1,10 @@
+.img{
+    transition: 2s;
+}
+.img:hover{
+    transform:translateY(20px);
+    transition:0.8s;
+}
+.cartoon{
+    background-color:#F3F4F6 ;
+}
